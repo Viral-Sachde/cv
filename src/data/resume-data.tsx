@@ -31,8 +31,8 @@ export const RESUME_DATA = {
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "vsachde74@.com",
+    tel: "+91 9484991399",
     social: [
       {
         name: "GitHub",
@@ -53,10 +53,10 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "School of Technology, GSFC University",
+      degree: "Bachelor's Degree in Computer Science & Engineering",
+      start: "2021",
+      end: "2025",
     },
   ],
   work: [
@@ -109,9 +109,12 @@ export const RESUME_DATA = {
     "TypeScript",
     "React/Next.js/Remix",
     "Node.js",
-    "GraphQL",
-    "Relay",
-    "WebRTC",
+    "Django",
+    "Tailwind & Bootstrap",
+    "Figma",
+    "Adobe Photoshops",
+    "HTML & CSS",
+    "Team Player",
   ],
   projects: [
     {
