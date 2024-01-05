@@ -88,10 +88,10 @@ export default function Page() {
           </div>
 
           <Avatar className="h-28 w-28">
-            <AvatarImage alt={RESUME_DATA.name} src={} />
+            <AvatarImage alt={RESUME_DATA.name} src={RESUME_DATA.avatarUrl} />
               
         
-             <RESUME_DATA.avatarUrl className="h-4 w-4" />
+            
             <AvatarFallback>{RESUME_DATA.initials}</AvatarFallback>
           </Avatar>
         </div>
