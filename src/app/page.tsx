@@ -186,16 +186,17 @@ export default function Page() {
             })}
           </div>
         </Section>
-      </section>
-      
-      <Section>
-          <h2 className="text-xl font-bold">Intrests</h2>
+            <Section>
+          <h2 className="text-xl font-bold">Interests</h2>
           <div className="flex flex-wrap gap-1">
             {RESUME_DATA.intrests.map((intrests) => {
               return <Badge key={intrests}>{intrests}</Badge>;
             })}
           </div>
         </Section>
+      </section>
+      
+  
       
 
       <CommandMenu
