@@ -107,6 +107,13 @@ export const RESUME_DATA = {
     "HTML & CSS",
     "Team Player",
   ],
+  intrests: [
+    "Podcasts",
+"Workout",
+"Self Improvement",
+"Sports",
+"Travelling",
+  ],
   projects: [
     {
       title: "Consultly",
