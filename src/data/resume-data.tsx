@@ -30,7 +30,7 @@ export const RESUME_DATA = {
     "Full Stack Engineer focused on building products with extra attention to details",
   summary:
     "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and MongoDB. I am outgoing, dedicated and open-minded. I get across to people and adjust to changes with ease. I am an optimistic guy who will do my best to maintain a level of quality in my work.",
-  avatarUrl: Av",
+  avatarUrl: Av,
   personalWebsiteUrl: "https://viralsachde.pythonanywhere.com/",
   contact: {
     email: "vsachde74@.com",
