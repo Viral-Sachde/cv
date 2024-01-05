@@ -15,6 +15,7 @@ import ParabolLogo from "../images/logos/parabol.svg";
 import TastyCloudLogo from "../images/logos/tastycloud.png";
 import YearProgressLogo from "../images/logos/yearprogress.svg";
 import Minimal from "../images/logos/minimal.svg";
+import Av from "../images/logos/photo.jpg";
 import { GitHubIcon } from "../components/icons/GitHubIcon";
 import { LinkedInIcon } from "../components/icons/LinkedInIcon";
 import { XIcon } from "../components/icons/XIcon";
@@ -29,7 +30,7 @@ export const RESUME_DATA = {
     "Full Stack Engineer focused on building products with extra attention to details",
   summary:
     "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and MongoDB. I am outgoing, dedicated and open-minded. I get across to people and adjust to changes with ease. I am an optimistic guy who will do my best to maintain a level of quality in my work.",
-  avatarUrl: "../images/logos/photo.jpg",
+  avatarUrl: Av",
   personalWebsiteUrl: "https://viralsachde.pythonanywhere.com/",
   contact: {
     email: "vsachde74@.com",
