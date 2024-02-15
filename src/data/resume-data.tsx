@@ -63,6 +63,18 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Pavans Group",
+      link: "",
+      badges: [],
+      title: "ReactJS/Next.js Developer",
+      logo: ParabolLogo,
+      start: "Dec 2023",
+      end: "Jan 2024",
+      description:
+        "As a React.js/Next.js intern at Pavans Group, I actively contributed to an IT services website, honing my skills in crafting responsive user interfaces and optimizing performance. Working with a skilled team. This internship deepened my understanding of React.js and Next.js and introduced me to basic API concepts Technologies: ReactJS, Next.js, Tailwind",
+      
+    },
+    {
       company: "Anant Soft Computing",
       link: "https://anantsoftcomputing.com",
       badges: [],
