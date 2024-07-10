@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   location: "Vadodara, Gujarat, India",
   locationLink: "https://www.google.com/maps/place/Vadodara,+Gujarat/",
   about:
-    "Full Stack Engineer/MERN Developer ",
+    "Full Stack Engineer / MERN Developer ",
   summary:
     "As a Full Stack Engineer, I have successfully taken multiple projects from 0 to 1. Currently, I work mostly with TypeScript, React, Node.js, and MongoDB. I am outgoing, dedicated and open-minded. I get across to people and adjust to changes with ease. I am an optimistic guy who will do my best to maintain a level of quality in my work.",
   avatarUrl: "https://avatars.githubusercontent.com/u/133246827?v=4",
