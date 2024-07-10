@@ -55,16 +55,25 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "School of Technology, GSFC University            7.52 CGPA",
+      school: "School of Technology, GSFC University         ",
       degree: "Bachelor's Degree in Computer Science & Engineering",
       start: "2021",
       end: "2025",
+      score:"7.52 CGPA",
     },
       {
-      school: "Sheth VD HighSchool                                 79.87%",
+      school: "Sheth VD HighSchool                                ",
       degree: "PCM, 11-12th Sciences",
       start: "2019",
       end: "2021",
+        score:"79.87%",
+    },
+     {
+      school: "Shree Swaminarayan HighSchool  ",
+      degree: "10th",
+      start: "2018",
+      end: "2019",
+        score:"88.00%",
     },
   ],
   work: [
