@@ -64,7 +64,7 @@ export const RESUME_DATA = {
   work: [
         {
       company: "Arkay Apps",
-      link: "",
+      link: "https://drive.google.com/file/d/15kqwZFOoG7PLsEeEoHfn11JHLpkMXoUe/view?usp=drive_link",
       badges: [],
       title: "Full Stack Developer",
       logo: ParabolLogo,
@@ -76,7 +76,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Pavans Group",
-      link: "",
+      link: "https://drive.google.com/file/d/1iI9DbCoAmAuvB6MJKwdRYF85922oKj-9/view?usp=sharing",
       badges: [],
       title: "ReactJS/Next.js Developer",
       logo: ParabolLogo,
@@ -88,7 +88,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Anant Soft Computing",
-      link: "https://anantsoftcomputing.com",
+      link: "https://drive.google.com/file/d/1ltR7kPx77gXjO_M16XAec9aAxLE2ETah/view?usp=drive_link",
       badges: [],
       title: "Django Full Stack Developer",
       logo: ParabolLogo,
