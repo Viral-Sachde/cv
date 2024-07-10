@@ -55,10 +55,16 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "School of Technology, GSFC University",
+      school: "School of Technology, GSFC University            7.52 CGPA",
       degree: "Bachelor's Degree in Computer Science & Engineering",
       start: "2021",
       end: "2025",
+    },
+      {
+      school: "Sheth VD HighSchool                                 79.87%",
+      degree: "PCM, 11-12th Sciences",
+      start: "2019",
+      end: "2021",
     },
   ],
   work: [
