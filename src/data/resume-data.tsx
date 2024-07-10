@@ -27,9 +27,9 @@ export const RESUME_DATA = {
   location: "Vadodara, Gujarat, India",
   locationLink: "https://www.google.com/maps/place/Vadodara,+Gujarat/",
   about:
-    "Full Stack Engineer focused on building products with extra attention to details",
+    "Full Stack Engineer/MERN Developer ",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and MongoDB. I am outgoing, dedicated and open-minded. I get across to people and adjust to changes with ease. I am an optimistic guy who will do my best to maintain a level of quality in my work.",
+    "As a Full Stack Engineer, I have successfully taken multiple projects from 0 to 1. Currently, I work mostly with TypeScript, React, Node.js, and MongoDB. I am outgoing, dedicated and open-minded. I get across to people and adjust to changes with ease. I am an optimistic guy who will do my best to maintain a level of quality in my work.",
   avatarUrl: "https://avatars.githubusercontent.com/u/133246827?v=4",
   personalWebsiteUrl: "https://viralsachde.pythonanywhere.com/",
   contact: {
@@ -62,6 +62,18 @@ export const RESUME_DATA = {
     },
   ],
   work: [
+        {
+      company: "Arkay Apps",
+      link: "",
+      badges: [],
+      title: "Full Stack Developer",
+      logo: ParabolLogo,
+      start: "Jun 2024",
+      end: "Jul 2024",
+      description:
+        "As a Full Stack Development intern at Arkay Apps, I developed a comprehensive website for a marble and granite client. This project enhanced my expertise in creating dynamic and user-friendly interfaces while ensuring robust backend functionality. Collaborating with a proficient team, I have in-depth knowledge of web development. This experience sharpened my full stack development skills and provided insights into seamless client-server integration. Technologies: HTML, CSS, JavaScript, React.js.",
+      
+    },
     {
       company: "Pavans Group",
       link: "",
@@ -96,28 +108,21 @@ export const RESUME_DATA = {
       description:
         "I was the Associate Sponsorship Head for Ananta, our college'sflagship event. Recently, I have been working on a specialbusiness proposal and have been in touch with variouspotential sponsors.",
     },
-    {
-      company: "CodeClub GSFCU",
-      link: "",
-      badges: [],
-      title: "Graphics Designer",
-      logo: NSNLogo,
-      start: "Dec 2021",
-      end: "Dec 2022",
-      description: "I was part of the code club at my college, where I was on thegraphics team. I have created many posts and posters forInstagram, as well as stories. I have also created special postersfor the comedy factory for Deep Vaidya and Om Bhatt, who wereguests at our college. Technologies: Adobe Photoshop, Figma, Adobe illustrator",
-    },
   ],
   skills: [
     "JavaScript",
     "TypeScript",
     "React/Next.js/Remix",
     "Node.js",
+    "Express.js",
+    "NextAuth",
     "Django",
     "Tailwind & Bootstrap",
     "Figma",
     "Adobe Photoshops",
     "HTML & CSS",
     "Team Player",
+    "Communication",
   ],
   intrests: [
     "Podcasts",
