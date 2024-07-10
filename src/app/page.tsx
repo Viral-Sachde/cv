@@ -156,11 +156,11 @@ export default function Page() {
                     </div>
                   </div>
                 </CardHeader>
-                  <h4 className="font-mono text-sm leading-none">
+                  
+                <CardContent className="mt-2">{education.degree}</CardContent>
+                  <h4 className="text-sm leading-none text-gray-500">
                     {education.score}
                   </h4>
-                <CardContent className="mt-2">{education.degree}</CardContent>
-                  
               </Card>
             );
           })}
