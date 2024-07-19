@@ -166,7 +166,7 @@ export default function Page() {
                 </CardHeader>
                   
                 <CardContent className="mt-2">{education.degree}</CardContent>
-                  <h4 className="text-sm leading-none text-gray-500">
+                  <h4 className="text-sm tabular-nums leading-none text-gray-500">
                     {education.score}
                   </h4>
               </Card>
